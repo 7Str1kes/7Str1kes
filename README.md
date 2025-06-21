@@ -34,7 +34,7 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img title="🔥 GitHub streak stats" alt="myfunc streak" src="https://github-readme-streak-stats.herokuapp.com/?user=myfunc&theme=dark&hide_border=false" />
+  <img title="🔥 GitHub streak stats" alt="myfuncdev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=myfuncdev&theme=dark&hide_border=false" />
 </td>
 <td width="40%" align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=myfunc&theme=dark&hide_border=false&langs_count=8"/>
