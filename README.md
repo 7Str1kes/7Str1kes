@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy myfunc (Santi Guerrero) ✨</h1>
 
 <p align="left">
-  <a href="mailto:myfunc.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:myfuncdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 <br>
 
@@ -14,7 +14,7 @@
 
 💻 Trabajo principalmente con tecnologías web y backend, pero también desarrollo bots de Discord y plugins de Minecraft. Me encanta explorar frameworks modernos y meter mano en todo lo que se pueda programar.
 
-📫 Contacto: **myfunc.dev@gmail.com**
+📫 Contacto: **myfuncdev@gmail.com**
 </p>
 <br>
 
