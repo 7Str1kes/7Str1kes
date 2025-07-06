@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy myfunc (Santi Guerrero) ✨</h1>
+<h1 align="center">Hola 👋 soy 7Str1kes (Santi Guerrero) ✨</h1>
 
 <p align="left">
   <a href="mailto:myfuncdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -34,10 +34,10 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img title="🔥 GitHub streak stats" alt="myfuncdev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=myfuncdev&theme=dark&hide_border=false" />
+  <img title="🔥 GitHub streak stats" alt="7Str1kes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=7Str1kes&theme=dark&hide_border=false" />
 </td>
 <td width="40%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=myfunc&theme=dark&hide_border=false&langs_count=8"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=7Str1kes&theme=dark&hide_border=false&langs_count=8"/>
 </td>
 </tr>
 </table>
@@ -45,6 +45,6 @@
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=myfunc&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=7Str1kes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
