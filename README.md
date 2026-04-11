@@ -17,12 +17,6 @@
 
 Programador en continuo crecimiento, especializado en **Java** y **backend**, con experiencia en desarrollo de herramientas y sistemas para servidores de **Minecraft**.
 
-**Lo que me define:**
-- 🔧 Construyo, rompo y optimizo sistemas hasta que funcionan perfectamente
-- 📚 Aprendizaje autodidacta constante: si no sé algo, lo aprendo
-- ⚡ Obsesionado con código limpio, escalable y mantenible
-- 🎯 No me conformo con que "funcione": tiene que estar **bien hecho**
-
 **En qué trabajo:**
 - Plugins de Minecraft (Spigot, Folia, Velocity, BungeeCord)
 - Sistemas de backend y APIs
