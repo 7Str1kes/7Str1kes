@@ -1,52 +1,70 @@
-<h1 align="center">Santiago Guerrero · 7Str1kes</h1>
-<p align="center">
-  Software Developer in Training · Java & Backend
-</p>
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-008DFF?style=for-the-badge)](https://7str1kes.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:myfuncdev@gmail.com)
+# Hey, I'm 7Str1kes 👋
+
+**Full Stack Developer** · Building things from database to UI
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7str1kes.dev-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://7str1kes.dev)
+[![Email](https://img.shields.io/badge/Gmail-santiicld.sys@gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:santiicld.sys@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7str1kes-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.com/users/7str1kes)
 
 </div>
 
 ---
 
-## Sobre mí
+## 🦁 GoldenLyons Network
 
-Desarrollador en formación, especializado en **Java** y **backend**, con experiencia práctica construyendo sistemas para entornos de alta concurrencia como servidores de Minecraft.
+<div align="center">
 
-Me interesa escribir código sólido, entender cómo funcionan las cosas por dentro y construir herramientas que resuelvan problemas reales.
+[![Discord](https://img.shields.io/badge/Discord-Únete_al_servidor-f59e0b?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.goldenlyons.net)
+[![Web](https://img.shields.io/badge/🌐_Web-goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://goldenlyons.net)
+[![Tienda](https://img.shields.io/badge/🛒_Tienda-tienda.goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://tienda.goldenlyons.net)
 
-**Áreas en las que trabajo:**
-- Plugins de Minecraft (Spigot, Folia, Velocity, BungeeCord)
-- Sistemas de backend y APIs REST
-- Bots de Discord y automatizaciones
-- Aplicaciones web modernas
+> *The pride never sleeps 🦁*
 
-**Lenguajes que más uso:** Java · JavaScript · Python
+</div>
 
 ---
 
-## GL Studios · Proyecto principal
+## 🛠️ Tech Stack
 
-**[GL Studios](https://glstudios.dev)** es el studio donde centralizo todo mi trabajo de desarrollo.
+<div align="center">
 
-Aquí publico y mantengo mis proyectos: plugins de Minecraft, herramientas para comunidades, bots de Discord y soluciones web a medida. Código limpio, documentado y con soporte activo.
+**Frontend**
 
-> 🌐 [glstudios.dev](https://glstudios.dev) *(Coming Soon)*
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,kotlin,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## Contacto
+## 📊 GitHub Stats
 
-Si tienes un proyecto en mente o quieres colaborar, escríbeme:
+<div align="center">
 
-📧 [myfuncdev@gmail.com](mailto:myfuncdev@gmail.com)  
-🌐 [Portafolio](https://7str1kes.github.io/portfolio/)
+<img src="https://github-stats-extended.vercel.app/api?username=7Str1kes&show_icons=true&theme=midnight_purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="7Str1kes GitHub Stats" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=7Str1kes&layout=compact&theme=midnight_purple&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7Str1kes&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Siempre aprendiendo. Siempre construyendo.</i>
-</p>
+<div align="center">
+
+*Check out my work at [7str1kes.dev](https://7str1kes.dev)*
+
+</div>
