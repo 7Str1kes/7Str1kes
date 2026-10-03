@@ -16,9 +16,9 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Únete_al_servidor-f59e0b?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.goldenlyons.net)
-[![Web](https://img.shields.io/badge/🌐_Web-goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://goldenlyons.net)
-[![Tienda](https://img.shields.io/badge/🛒_Tienda-tienda.goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://tienda.goldenlyons.net)
+[![Discord](https://img.shields.io/badge/Discord-Join_the_server-f59e0b?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.goldenlyons.net)
+[![Website](https://img.shields.io/badge/🌐_Website-goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://goldenlyons.net)
+[![Store](https://img.shields.io/badge/🛒_Store-tienda.goldenlyons.net-f59e0b?style=for-the-badge&labelColor=1a1a2e)](https://tienda.goldenlyons.net)
 
 > *The pride never sleeps 🦁*
 
